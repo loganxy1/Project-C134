@@ -1,0 +1,23 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #objectsNum
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover;
+    position:center;
+}
+
+canvas{
+    border: black solid 1px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 38px lightcoral;
+}
